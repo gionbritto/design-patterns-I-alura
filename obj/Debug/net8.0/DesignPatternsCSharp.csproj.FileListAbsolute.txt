@@ -1,0 +1,14 @@
+D:\giovanne.nascimento\source\repos\Alura\DesignPatternsCSharp\bin\Debug\net8.0\DesignPatternsCSharp.exe
+D:\giovanne.nascimento\source\repos\Alura\DesignPatternsCSharp\bin\Debug\net8.0\DesignPatternsCSharp.deps.json
+D:\giovanne.nascimento\source\repos\Alura\DesignPatternsCSharp\bin\Debug\net8.0\DesignPatternsCSharp.runtimeconfig.json
+D:\giovanne.nascimento\source\repos\Alura\DesignPatternsCSharp\bin\Debug\net8.0\DesignPatternsCSharp.dll
+D:\giovanne.nascimento\source\repos\Alura\DesignPatternsCSharp\bin\Debug\net8.0\DesignPatternsCSharp.pdb
+D:\giovanne.nascimento\source\repos\Alura\DesignPatternsCSharp\obj\Debug\net8.0\DesignPatternsCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\giovanne.nascimento\source\repos\Alura\DesignPatternsCSharp\obj\Debug\net8.0\DesignPatternsCSharp.AssemblyInfoInputs.cache
+D:\giovanne.nascimento\source\repos\Alura\DesignPatternsCSharp\obj\Debug\net8.0\DesignPatternsCSharp.AssemblyInfo.cs
+D:\giovanne.nascimento\source\repos\Alura\DesignPatternsCSharp\obj\Debug\net8.0\DesignPatternsCSharp.csproj.CoreCompileInputs.cache
+D:\giovanne.nascimento\source\repos\Alura\DesignPatternsCSharp\obj\Debug\net8.0\DesignPatternsCSharp.dll
+D:\giovanne.nascimento\source\repos\Alura\DesignPatternsCSharp\obj\Debug\net8.0\refint\DesignPatternsCSharp.dll
+D:\giovanne.nascimento\source\repos\Alura\DesignPatternsCSharp\obj\Debug\net8.0\DesignPatternsCSharp.pdb
+D:\giovanne.nascimento\source\repos\Alura\DesignPatternsCSharp\obj\Debug\net8.0\DesignPatternsCSharp.genruntimeconfig.cache
+D:\giovanne.nascimento\source\repos\Alura\DesignPatternsCSharp\obj\Debug\net8.0\ref\DesignPatternsCSharp.dll
